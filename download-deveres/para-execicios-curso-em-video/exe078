@@ -1,0 +1,7 @@
+nun1 = int(input('digite um valor para posição 0:'))
+nun2 = int(input('digite um valor para posição 1:'))
+nun3 = int(input('digite um valor para posição 2:'))
+nun4 = int(input('digite um valor para posição 3'))
+nun5 = int(input('digite um valor para posição 4:'))
+lita = (nun1, nun2, nun3, nun4, nun5)
+max(nun1)
